@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudioProjects\\LearnOpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43B63A5B-EBE1-4CD0-9DCE-8DA8E74D4258}|LearnOpenGL.vcxproj|E:\\VisualStudioProjects\\LearnOpenGL\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{43B63A5B-EBE1-4CD0-9DCE-8DA8E74D4258}|LearnOpenGL.vcxproj|solutionrelative:gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B63A5B-EBE1-4CD0-9DCE-8DA8E74D4258}|LearnOpenGL.vcxproj|E:\\VisualStudioProjects\\LearnOpenGL\\src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43B63A5B-EBE1-4CD0-9DCE-8DA8E74D4258}|LearnOpenGL.vcxproj|solutionrelative:src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\LearnOpenGL\\gitignore",
+              "RelativeDocumentMoniker": "gitignore",
+              "ToolTip": "E:\\VisualStudioProjects\\LearnOpenGL\\gitignore",
+              "RelativeToolTip": "gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T07:06:24.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello_triangle_exercise3.cpp",
+              "DocumentMoniker": "E:\\VisualStudioProjects\\LearnOpenGL\\src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp",
+              "RelativeDocumentMoniker": "src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp",
+              "ToolTip": "E:\\VisualStudioProjects\\LearnOpenGL\\src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp",
+              "RelativeToolTip": "src\\1.getting_started\\2.5.hello_triangle_exercise3\\hello_triangle_exercise3.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T06:51:24.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
